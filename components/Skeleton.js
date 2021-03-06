@@ -13,8 +13,9 @@ export default function Skeleton() {
           margin: 20px auto;
         }
         .skeleton > div {
-          background: #ddd;
+          background: #dbcc1a;
           border-radius: 4px;
+          margin: 20px 0;
         }
         .s-banner {
           padding: 12% 0;
