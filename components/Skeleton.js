@@ -14,17 +14,18 @@ export default function Skeleton() {
         }
         .skeleton > div {
           background: #ddd;
-          border-radius: 10px;
-          width: 100%;
+          border-radius: 4px;
         }
         .s-banner {
-          padding: 10% 0;
+          padding: 12% 0;
         }
         .s-header {
-          padding: 10px 0;
+          padding: 15px 0;
+          max-width: 500px;
         }
         .s-content {
-          padding: 5px 0;
+          padding: 8px 0;
+          max-width: 1000px;
         }
       `}</style>
     </div>
